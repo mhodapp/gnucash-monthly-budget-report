@@ -1,0 +1,7 @@
+#GNUCash Stuff
+*.LCK
+*.LNK
+*.log
+
+#Other Stuff
+*~
