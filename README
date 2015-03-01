@@ -1,0 +1,13 @@
+I've been using this perl program, BudgetReport.pl, with periodic minor changes, since 2009.
+
+The program produces a GNUCash monthly budget report of expenses and income, with columns for account description, budgeted amount, actual amount, variance between monthly budgeted amount and actual amount, the year-to-date variance, the year-to-date actual, and the year-to-date average actual. Unless there are lots of accounts, the report fits nicely on copier size paper.
+
+A sample GNUCash database, including an "Unnamed Budget" GNUCash budget, is provided allowing the testing and demonstration of the program. The database has 2015 dates from January through December.
+
+The program documentation is pretty much provided in the included budrep.conf file.
+
+Program usage can be requested using the ? option or by not specifying any option or parameter.
+
+The program has been used on both Fedora and ubuntu distributions of Linux. The budrep_required_packages file lists a couple of packages that had to be installed to support perl's use of XML by the program. If the required modules are not installed on your system, error messages will notify you of the missing modules.
+
+

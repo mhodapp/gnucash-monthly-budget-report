@@ -1,0 +1,46 @@
+Monthly Budget Summary, January 2015
+
+                               BUDGETED      ACTUAL                     YTD         YTD     AVERAGE
+DESCRIPTION                     AMOUNTS     AMOUNTS    VARIANCE    VARIANCE      ACTUAL      ACTUAL
+
+EXPENSES
+Auto - Fees                        0.00        0.00        0.00        0.00        0.00        0.00
+Auto - Gas                       200.00      182.00       18.00       18.00      182.00      182.00
+Auto - Parking                    55.00       55.00        0.00        0.00       55.00       55.00
+Auto - Repair and Maint          125.00        0.00      125.00      125.00        0.00        0.00
+Cable                             99.00       97.55        1.45        1.45       97.55       97.55
+Charity                          400.00      300.00      100.00      100.00      300.00      300.00
+Clothes                          500.00      511.00      -11.00      -11.00      511.00      511.00
+Computer                          45.00       50.00       -5.00       -5.00       50.00       50.00
+Entertain - DiningOut            350.00      424.00      -74.00      -74.00      424.00      424.00
+Entertain - Music/Movies          35.00       55.00      -20.00      -20.00       55.00       55.00
+Entertain - Recreation           105.00      104.50        0.50        0.50      104.50      104.50
+Groceries                        900.00      900.00        0.00        0.00      900.00      900.00
+Ins - Auto                       222.00      221.67        0.33        0.33      221.67      221.67
+Ins - Health                     333.00      332.99        0.01        0.01      332.99      332.99
+Ins - Life                       395.00      395.00        0.00        0.00      395.00      395.00
+Medical                          150.00        0.00      150.00      150.00        0.00        0.00
+Miscellaneous                    300.00      300.00        0.00        0.00      300.00      300.00
+Online Services                   57.00       56.85        0.15        0.15       56.85       56.85
+Phone                            200.00      200.00        0.00        0.00      200.00      200.00
+Taxes - Federal                  400.00      400.00        0.00        0.00      400.00      400.00
+Taxes - Medicare                 128.00      128.00        0.00        0.00      128.00      128.00
+Taxes - Other                      0.00        0.00        0.00        0.00        0.00        0.00
+Taxes - Social Security          191.00      191.00        0.00        0.00      191.00      191.00
+Taxes - State                    100.00      100.00        0.00        0.00      100.00      100.00
+Utilities - Electric             125.00       99.99       25.01       25.01       99.99       99.99
+Utilities - Garbage               56.00       56.00        0.00        0.00       56.00       56.00
+Utilities - Gas                  125.00      125.00        0.00        0.00      125.00      125.00
+Utilities - Water                 67.00       65.00        2.00        2.00       65.00       65.00
+SUBTOTAL                        5663.00     5350.55      312.45      312.45     5350.55     5350.55
+
+INCOME
+Bonus                              0.00        0.00        0.00        0.00        0.00        0.00
+Interest - Checking                0.00        0.01       -0.01       -0.01        0.01        0.01
+Interest - Other                   0.00        0.00        0.00        0.00        0.00        0.00
+Interest - Savings                 1.00        2.00       -1.00       -1.00        2.00        2.00
+Other Income                       0.00        0.00        0.00        0.00        0.00        0.00
+Salary                          6000.00     6000.00        0.00        0.00     6000.00     6000.00
+SUBTOTAL                        6001.00     6002.01       -1.01       -1.01     6002.01     6002.01
+
+TOTAL                            338.00      651.46                              651.46      651.46

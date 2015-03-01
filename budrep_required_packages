@@ -1,0 +1,16 @@
+Fedora packages required to run budrep perl program:
+
+perl-XML-Parser.x86_64 which contains XML::Parser
+
+perl-XML-Simple.noarch which contains XML::Simple
+
+
+
+
+
+ubuntu packages required to run budrep perl program:
+
+libxml-parser-perl which contains XML::Parser
+
+libxml-simple-perl which contains XML::Simple
+
